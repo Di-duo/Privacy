@@ -10,6 +10,18 @@
 - SRC查询：手机号查补天SRC，用户名查漏洞盒子/火线/漏洞银行
 - 安全图昵称查询：查询安全从业者微信昵称
 - 微博用户信息查询：查询微博用户基本信息
+  
+## 软件截图
+![image](https://github.com/user-attachments/assets/0c220049-5d9a-4efd-a09b-32dffadabfba)
+
+![image](https://github.com/user-attachments/assets/f1daca7c-53fd-4ed3-a690-6b7f34404aea)
+
+![image](https://github.com/user-attachments/assets/87ea3919-5042-4c17-8310-9e3ff46efed7)
+
+![image](https://github.com/user-attachments/assets/3b053a86-a620-4561-9a83-ba551af21111)
+
+![image](https://github.com/user-attachments/assets/17e09017-f81b-4f27-929d-8a78c4142f37)
+
 
 ## 免责声明
 - 本工具仅供安全研究使用，请勿用于非法用途。
